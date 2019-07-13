@@ -41,3 +41,6 @@ I would use premade invoice management software such as Quickbooks which would a
 ## 5.
 I would use software like Trello's boards to give each board a title and put the steps to make the book in order and check them off as they are completed.
 
+# Part 3
+You need to convert the folder to a zip file because if you don't, each of the individual files will be sent to the receiver and lose their structure. Zip files make sure folder stucture stays intact in transfer over the internet.
+
